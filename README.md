@@ -17,7 +17,7 @@ https://soundcloud.com/bossfightswe/elevatia
 
 ### Why not upload to established song sharing platforms?
 Beat Saber recently hopped out of Early Access, with the update came a native song loader.  
-This means that the game can now load song without the need for mods. This is great.  
+This means that the game can now load songs without the need for mods. This is great news.  
 The issue is that **the native songs have a different format** for their ```Info``` files.
 Existing song sharing platforms use the old format.  
 
