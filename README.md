@@ -13,7 +13,6 @@ All songs uploaded here have the artist's permission.
 ### Song List
 - Elevatia by BOSSFIGHT.  
 https://soundcloud.com/bossfightswe/elevatia
-https://github.com/JonShard/BeatSaberSongs/blob/master/ElevatiaBOSSFIGHT/Bossfight%20-%20Elevatia%20(JonShard).zip
 - More coming...
 
 ### Why not upload to established song sharing platforms?
