@@ -13,7 +13,16 @@ All songs uploaded here have the artist's permission.
 ### Song List
 - Elevatia by BOSSFIGHT.  
 https://soundcloud.com/bossfightswe/elevatia
+https://github.com/JonShard/BeatSaberSongs/blob/master/ElevatiaBOSSFIGHT/Bossfight%20-%20Elevatia%20(JonShard).zip
 - More coming...
+
+### Why not upload to established song sharing platforms?
+Beat Saber recently hopped out of Early Access, with the update came a native song loader.  
+This means that the game can now load song without the need for mods. This is great.  
+The issue is that **the native songs have a different format** for their ```Info``` files.
+Existing song sharing platforms use the old format.  
+
+So until BeatSaber adds a Steam Workshop, their own in-house sharing platform or the modding community adds support for native-songs, I will upload them here to avoid confusion.
 
 ### Contact me:
 jonemskaara@gmail.com
