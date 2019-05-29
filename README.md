@@ -1,4 +1,4 @@
-## Beat Saber Native songs:
+## Beat Saber Native Songs:
 Levels made by Jone Skaara.  
 All songs uploaded here have the artist's permission.
 

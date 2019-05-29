@@ -2,6 +2,7 @@
 ### Elevatia by BOSSFIGHT
 #### Difficulties:
 - Expert
+- Hard
 
 BOSSFIGHT on SoundCloud:  
 https://soundcloud.com/bossfightswe  
