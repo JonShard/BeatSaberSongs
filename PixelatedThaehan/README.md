@@ -1,5 +1,5 @@
 
-### song by artist
+### Pixelated by Thaehan
 #### Difficulties:
 - Expert+
 - Expert
