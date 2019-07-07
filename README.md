@@ -21,15 +21,17 @@ https://soundcloud.com/bossfightswe/elevatia
 https://soundcloud.com/azles/blust  
 - Pixelated by Thaehan  
 https://soundcloud.com/loki-6/thaehan-pixelated  
+- Right This Second by deadmau5  
+https://youtu.be/A67GQgoiinM?t=5  
 - More coming...
 
 ### Why not **only** upload to established song sharing platforms?
-Beat Saber recently hopped out of Early Access, with the update came a native song loader.  
+Beat Saber has hopped out of Early Access, with that update came a native song loader.  
 This means that the game can now load songs without the need for mods. This is great news.  
 The issue is that **the native songs have a different format** for their ```Info``` files.
 Existing song sharing platforms use the old format.  
 
-So until BeatSaber adds a Steam Workshop, their own in-house sharing platform or the modding community adds support for native-songs, I will upload them here to avoid confusion.
+So until Beat Saber adds a Steam Workshop, their own in-house sharing platform or the modding community adds support for native-songs, I will upload them here as well to avoid confusion.
 
 ### Contact me:
 jonemskaara@gmail.com
